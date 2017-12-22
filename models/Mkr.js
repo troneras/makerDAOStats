@@ -10,7 +10,7 @@ const mkrSchema = mongoose.Schema({
 });
 
 // y por último creamos el modelo
-const Mkr = mongoose.model('Mkr', mkrSchema);
+const Mkr = mongoose.model('Mkr', mkrSchema,'Mkr');
 
 // y lo exportamos
 module.exports = Mkr;

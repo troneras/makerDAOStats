@@ -7,9 +7,9 @@ const router  = express.Router();
 const Mkr = require('../../models/Mkr');
 
 
-router.get('/',  (req, res, next) => {
+router.get('/', async (req, res, next) => {
     const query = Mkr.find({});
-    const rows =  query.exec();
+    const rows =  await query.exec();
     res.json({success:true, result: rows});
 });
 
