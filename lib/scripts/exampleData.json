@@ -3,64 +3,14 @@
         {
             "totalSupply": "1000000.000000",
             "circulatingSupply": "618935.682522",
-            "time": 1513962508
-        },
-        {
-            "totalSupply": "1000000.000000",
-            "circulatingSupply": "618935.682522",
-            "time": 1522962508
-        },
-        {
-            "totalSupply": "1000000.000000",
-            "circulatingSupply": "618935.682522",
-            "time": 1533962508
-        },
-        {
-            "totalSupply": "1000000.000000",
-            "circulatingSupply": "618935.682522",
-            "time": 1543962508
-        },
-        {
-            "totalSupply": "1000000.000000",
-            "circulatingSupply": "618935.682522",
-            "time": 1553962508
-        },
-        {
-            "totalSupply": "1000000.000000",
-            "circulatingSupply": "618935.682522",
             "time": 1563962508
         }
     ],
     "dai":[
         {
-            "circulatingSupply": "1000000",
-            "time": 1513962508
-        },
-        {
-            "circulatingSupply": "1250000.170587",
-            "time": 1513972508
-        },
-        {
-            "circulatingSupply": "1500000.170587",
-            "time": 1513982508
-        },
-        {
-            "circulatingSupply": "1750000.170587",
-            "time": 1513992508
-        },
-        {
-            "circulatingSupply": "2000000.170587",
-            "time": 1514002508
-        },
-        {
-            "circulatingSupply": "3000000.170587",
-            "time": 1514012508
-        },
-        {
             "circulatingSupply": "4307789.170587",
             "time": 1514022508
         }
-
     ]
 }
     
