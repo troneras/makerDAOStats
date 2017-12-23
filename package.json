@@ -5,7 +5,8 @@
   "scripts": {
     "start": "node ./bin/www",
     "dev": "cross-env DEBUG=makerstats:* nodemon ./bin/www",
-    "installDB": "node ./lib/scripts/install_bd"
+    "installDB": "node ./lib/scripts/install_bd",
+    "updateStats": "node ./lib/scripts/updateStats"
   },
   "dependencies": {
     "body-parser": "~1.18.2",
@@ -17,6 +18,7 @@
     "mongodb": "^3.0.0-rc0",
     "mongoose": "^4.13.7",
     "morgan": "~1.9.0",
+    "request": "^2.83.0",
     "serve-favicon": "~2.4.5"
   },
   "devDependencies": {
